@@ -1,5 +1,5 @@
-# Twitter_NLP_Sentiment_Analysis
-This Twitter_NLP_Sentiment_Analysis is about classifying positive tweets from negative tweets with machine learning models for text mining, classification, text analysis, data visualization, and data analysis.
+# Twitter NLP Sentiment Analysis
+This Twitter NLP Sentiment Analysis is about classifying positive tweets from negative tweets with machine learning models for text mining, classification, text analysis, data visualization, and data analysis.
 
 # Introduction
 
@@ -41,5 +41,5 @@ Which trends are associated with either of the sentiments? Are they compatible w
 
 # Conclusion
 
-Throughout my analysis, I learned how to approach a sentiment analysis problem. I started with preprocessing and exploration of data. Then I extracted features from the cleaned text using Bag-of-Words and TF-IDF. Lastly, built models using both of the feature sets to classify the tweets.
+Throughout my analysis, I learned how to approach a sentiment analysis problem. I started with preprocessing and exploration of data. Then I extracted features from the cleaned text using Bag-of-Words and TF-IDF. Lastly, I built models using both of the feature sets to classify the tweets.
 
