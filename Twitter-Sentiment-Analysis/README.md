@@ -7,7 +7,7 @@ We will explore sentiment analysis, an application of Natural Language Processin
 
 Thousands of text documents can be processed for sentiment (and other features including named entities, themes, topics, etc.) in seconds, compared to the hours it would take a team of people to manually complete the same task. 
 
-I started with preprocessing and cleaning the raw text of the tweets. Then I looked throught the text to get some intuition about the context of the tweets. Then I extract numerical features from the data and use these feature sets to train models and identify sentiments of the tweets.
+I started with preprocessing and cleaning the raw text of the tweets. Then I looked through the text to get some intuition about the context of the tweets. Then I extract numerical features from the data and use these feature sets to train models and identify sentiments of the tweets.
 
 I’m excited for you to join me on this NLP challenge.
 
